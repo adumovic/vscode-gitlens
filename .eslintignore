@@ -1,3 +1,4 @@
 dist/*
 emojis.json
+@types/*
 tsconfig.tsbuildinfo
